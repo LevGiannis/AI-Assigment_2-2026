@@ -1,0 +1,9 @@
+# Core
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.7
+# Torch (Apple Silicon)
+torch>=2.1; platform_system=="Darwin" and platform_machine=="arm64"
+# Testing
+pytest>=7.0
