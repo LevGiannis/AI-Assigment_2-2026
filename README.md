@@ -1,6 +1,6 @@
 
 
-# Assignment 2: IMDB & FashionMNIST - Ολοκληρωμένο ML Pipeline
+# Assignment: IMDB & FashionMNIST - Ολοκληρωμένο ML Pipeline
 
 ## Περιγραφή Project
 Αυτό το repository υλοποιεί ένα πλήρως αυτοματοποιημένο και αναπαραγώγιμο ML pipeline για ταξινόμηση κειμένου (IMDB) και εικόνας (FashionMNIST), με έμφαση στη modular αρχιτεκτονική, την επαληθευσιμότητα και την αυτοματοποίηση ελέγχων/αποτελεσμάτων.
